@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tesunithello", "tesunithello\tesunithello.pyproj", "{B9AEC67D-D565-4F06-AC41-6983A0A8E5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9AEC67D-D565-4F06-AC41-6983A0A8E5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AEC67D-D565-4F06-AC41-6983A0A8E5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F300425-D7F2-45B0-850B-B14125E9A0A8}
+	EndGlobalSection
+EndGlobal
